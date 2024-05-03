@@ -1,4 +1,4 @@
-# Git and GitHub for the Sysadmin
+# Git for the Sysadmin
 
 ## In Case Of Fire...
 ![Commit, then leave](incaseoffire.jpg)
