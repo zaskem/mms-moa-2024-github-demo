@@ -4,6 +4,7 @@
 Yell "FIRE!"
 Barrel Roll
 Holler "Freebird!"
+Check out [demo](demo.md)
 
 ![Commit, then leave](incaseoffire.jpg)
 
