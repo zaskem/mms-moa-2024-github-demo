@@ -1,6 +1,10 @@
 # Git for the Sysadmin
 
 ## In Case Of Fire...
+Yell "FIRE!"
+Barrel Roll
+Holler "Freebird!"
+
 ![Commit, then leave](incaseoffire.jpg)
 
 ## Installation and Download Links
